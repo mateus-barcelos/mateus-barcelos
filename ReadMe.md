@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Personal projects focused on backend development.<br><br>👯 I’m looking to collaborate on<br>Backend projects, startups, and initiatives with social impact.<br><br>🤝 I’m looking for help with<br>Networking and connecting with other developers and professionals in tech.<br><br>🌱 I’m currently learning<br>Spring Security, software architecture, and design patterns.<br><br>💬 Ask me about<br>Java, Spring Boot, and mobile development (React Native or native Android).<br><br>⚡ Fun fact<br>I hate low-code and React Native and my first professional experiences were with exactly that 😅
-
+🔭 I’m currently working on<br>Evertec Inc.<br><br>👯 I’m looking to collaborate on<br>Backend projects, startups, and initiatives with social impact.<br><br>🤝 I’m looking for help with<br>Networking and connecting with other developers and professionals in tech.<br><br>🌱 I’m currently learning<br>Spring Security, software architecture, and design patterns.<br><br>💬 Ask me about<br>Java, Spring Boot, and mobile development (React Native or native Android).<br><br>⚡ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateusrbarcelos) 
